@@ -18,6 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+您好！ 我是**华骏扬**, 北京理工大学自动化学院的一名学生.
 
-Check out my [CV](/about/) and blog posts below 🌈
