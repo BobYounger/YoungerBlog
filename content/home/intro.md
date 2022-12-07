@@ -18,5 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
-您好！ 我是**华骏扬**, 北京理工大学自动化学院的一名学生.
+***Inconsistency*** is what makes life beautiful.
 
